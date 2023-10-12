@@ -2,6 +2,7 @@
 
 #### Related Issue(s):
 Link or reference any related issues or tickets.
+
 #### PR Description:
 [Provide a brief summary of the changes made.]
 
@@ -10,6 +11,7 @@ Link or reference any related issues or tickets.
 - [ ] Fixed identified bug(s)
 - [ ] Updated relevant documentation
 - [ ] 
+
 ##### Screenshots (if UI changes were made):
 Attach screenshots or GIFs of any visual changes. (Only for
 frontend-related changes)
@@ -25,7 +27,6 @@ reviewer.
 - [ ] Manual testing has been performed to ensure the PR works as
 expected.
 - [ ] Code review comments have been addressed or clarified.
----
 
 #### Additional Comments:
 Add any other comments or information that might be useful for the
